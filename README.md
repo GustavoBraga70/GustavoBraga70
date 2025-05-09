@@ -12,11 +12,6 @@ E aí, muito prazer, sou Gustavo Augusto Damasceno Braga e tenho 18 anos. Atualm
         />
     </a>
     <a href="https://github.com/GustavoBraga70?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Siga-me no GitHub" 
-            src="https://github.com/GustavoBraga70?tab=followers?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
     </a>
 </p>
 
